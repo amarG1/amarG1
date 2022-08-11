@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amarG1
 - 👀 I’m interested in web development 
-- 🌱 I’m currently graduate engineer {B.E (cse)}
+- 🌱 I’m  graduate engineer {B.E (cse)}
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
